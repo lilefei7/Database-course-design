@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title class="">学生信息管理系统</title>
+  <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <script src="/socket.io/socket.io.js"></script>
+  <link rel="stylesheet" href="./css/manager.css">
+
+</head>
+
+<body>
+  <div id="header">
+    <!-- 占位 -->
+  </div>
+  <div class="container ">
+    <div class="row">
+      <div id="left" class="col-2"></div>
+      <div id="main" class="col-8 m-auto ">
+        <form>
+          <label for="selectDBTable"></label>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="selectDBTable" id="user" value="studentIformation"
+              checked>
+            <label class="form-check-label" for="user">学生信息表</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="selectDBTable" id="user" value="course">
+            <label class="form-check-label" for="user">课程信息表</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="selectDBTable" id="user" value="score">
+            <label class="form-check-label" for="user">成绩表</label>
+          </div>
+          <div id="query" onclick="query()" class="btn btn-primary">查询</div>
+          <!-- <div id="update" onclick="update()" class="btn btn-primary">修改</div>
+          <div id="insert" onclick="insert()" class="btn btn-primary">插入</div>
+          <div id="delete" onclick="deleteRow()" class="btn btn-primary">删除</div> -->
+        </form>
+        <table class="table" id="resultTable">
+          <!-- <p>给将要生成的表格占位</p> -->
+        </table>
+      </div>
+      <div id="right" class="col-2"></div>
+    </div>
+  </div>
+</body>
+<script src="../public/js/manager.js"></script>
+<script src="../node_modules/jquery/dist/jquery.min.js"></script>
+<script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js""></script>
+</html>
