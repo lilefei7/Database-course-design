@@ -15,7 +15,9 @@
 数据流图：
 
  
-
+<p align="center">
+        <img src="http://www.club0.club/github_imgage/Data_flow_diagram.png" width=""/>
+</p>
 ​                                                    
 
 数据字典：
