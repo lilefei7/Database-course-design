@@ -1,5 +1,7 @@
 # Database-course-design
 
+<a href="https://github.com/ailefun/Database-course-design/#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%A6%82%E8%BF%B0">跳转到项目演示截图点击这里</a>
+
 ## 第一章 概述
 
 前端界面采用html、css、JavaScript等，后台在linux上使用node.js，数据库用mysql8。前端页面有登录页面（包括管理员登录和普通用户登录）和数据管理界面共三个界面，基本功能模块包括：数据库连接模块、用户登录模块、数据操作模块。
