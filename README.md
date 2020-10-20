@@ -100,8 +100,10 @@
 
 ER图：
 
-​     
-
+ 
+<p align="center">
+        <img src="http://www.club0.club/github_imgage/ER_diagram.png " width=""/>
+</p>
  
 
 关系模式：
@@ -306,6 +308,10 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 
 ​    如果服务器是在本地开的，在浏览器中输入127.0.0.1，浏览器返回如下界面：
+
+<p align="center">
+        <img src="http://www.club0.club/github_imgage/screenshot_1.png " width=""/>
+</p>
 
 如果输入的信息有误会进行如下提示：
 
