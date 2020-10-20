@@ -351,7 +351,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
         <img src="http://www.club0.club/github_imgage/screenshot_7.png" width=""/>
 </p>
 
-不修改数据的情况下点击修改：
+不修改表格中的数据的情况下点击修改：
 
 ​     
 <p align="center">
@@ -386,17 +386,17 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 </p>
 
 ​     
- 如果再空白单元格中输入了我们自定义的c原因5的信息，点击插入，结果如下：
+ 如果在空白单元格中输入了我们自定义的c语言5的信息，点击插入，结果如下：
 
  
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_13.png" width=""/>
+        <img src="http://www.club0.club/github_imgage/screenshot_inserted_successfully.png" width=""/>
 </p>
 点击确定，可以看到，c语言5的信息被插入了：
 
 ​     
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_14.png" width=""/>
+        <img src="http://www.club0.club/github_imgage/screenshot_13.png" width=""/>
 </p>
  
 
@@ -404,14 +404,14 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
  
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_15.png" width=""/>
+        <img src="http://www.club0.club/github_imgage/screenshot_14.png" width=""/>
 </p>
 ​     
 
 点击确定后，发现c语言5的信息已经被删除了：
 
 ​     <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_16.png" width=""/>
+        <img src="http://www.club0.club/github_imgage/screenshot_15.png" width=""/>
 </p>
 
 如果上面进行的操作不符合数据库设计的要求（数据的唯一性，外键依赖等），会返回数据库的报错信息，例如：我尝试删除学号为201720812学生信息，因为分数表里有这个学生的分数信息依赖这个字段，所以报错如下：
@@ -420,7 +420,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
  
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_17.png" width=""/>
+        <img src="http://www.club0.club/github_imgage/screenshot_16.png" width=""/>
 </p>
  
 
