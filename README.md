@@ -1,6 +1,6 @@
 # Database-course-design
 
-<a href="https://github.com/ailefun/Database-course-design/#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%A6%82%E8%BF%B0">跳转到项目演示截图点击这里</a>
+<a href="https://github.com/ailefun/Database-course-design/#%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B0%83%E8%AF%95%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E6%83%85%E5%86%B5">跳转到项目演示截图点击这里</a>
 
 ## 第一章 概述
 
