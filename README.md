@@ -307,7 +307,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 #### 系统测试
 
 
-​    如果服务器是在本地开的，在浏览器中输入127.0.0.1，浏览器返回如下界面：
+在浏览器中访问网站，返回如下界面：
 
 <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_1.png" width=""/>
@@ -322,19 +322,19 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 如果一般用户登录成功会进入如下界面：
 
-​     <p align="center">
+    <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_3.png" width=""/>
 </p>
 
 点击查询后得到如下结果：
 
-​     <p align="center">
+     <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_4.png" width=""/>
 </p>
 
 如果是以管理员的身份进入管理页面，管理页面如下：
 
-​     <p align="center">
+     <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_5.png" width=""/>
 </p>
 
@@ -344,7 +344,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
         <img src="http://www.club0.club/github_imgage/screenshot_6.png" width=""/>
 </p>
 
-​     
+    
  选择课程信息表，点击查询：
 
  <p align="center">
@@ -353,7 +353,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 不修改表格中的数据的情况下点击修改：
 
-​     
+     
 <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_8.png" width=""/>
 </p>
@@ -361,13 +361,13 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 点击c语言4的学时单元格，将c语言4的学时修改为100，之后点击修改：
 
-​     <p align="center">
+    <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_9.png" width=""/>
 </p>
 
 再次点击查询，发现修改成功：
 
-​     <p align="center">
+     <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_10.png" width=""/>
 </p>
 
@@ -377,15 +377,15 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_11.png" width=""/>
 </p>
-​     
+     
 
 不输入数据的情况下点击插入：
 
-​     <p align="center">
+     <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_12.png" width=""/>
 </p>
 
-​     
+   
  如果在空白单元格中输入了我们自定义的c语言5的信息，点击插入，结果如下：
 
  
@@ -394,7 +394,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 </p>
 点击确定，可以看到，c语言5的信息被插入了：
 
-​     
+     
 <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_13.png" width=""/>
 </p>
@@ -406,11 +406,11 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_14.png" width=""/>
 </p>
-​     
+     
 
 点击确定后，发现c语言5的信息已经被删除了：
 
-​     <p align="center">
+    <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_15.png" width=""/>
 </p>
 
