@@ -109,7 +109,7 @@ ER图：
 
  
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/ER_diagram.png " width=""/>
+        <img src="http://www.club0.club/github_imgage/ER_diagram.png" width=""/>
 </p>
  
 
