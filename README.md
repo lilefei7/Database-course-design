@@ -322,19 +322,19 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 如果一般用户登录成功会进入如下界面：
 
-    <p align="center">
+ <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_3.png" width=""/>
 </p>
 
 点击查询后得到如下结果：
 
-     <p align="center">
+ <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_4.png" width=""/>
 </p>
 
 如果是以管理员的身份进入管理页面，管理页面如下：
 
-     <p align="center">
+ <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_5.png" width=""/>
 </p>
 
@@ -361,13 +361,13 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 点击c语言4的学时单元格，将c语言4的学时修改为100，之后点击修改：
 
-    <p align="center">
+  <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_9.png" width=""/>
 </p>
 
 再次点击查询，发现修改成功：
 
-     <p align="center">
+ <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_10.png" width=""/>
 </p>
 
@@ -381,7 +381,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 不输入数据的情况下点击插入：
 
-     <p align="center">
+  <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_12.png" width=""/>
 </p>
 
@@ -410,7 +410,7 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 
 点击确定后，发现c语言5的信息已经被删除了：
 
-    <p align="center">
+ <p align="center">
         <img src="http://www.club0.club/github_imgage/screenshot_15.png" width=""/>
 </p>
 
