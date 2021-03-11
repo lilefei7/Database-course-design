@@ -23,7 +23,7 @@
 
  
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/Data_flow_diagram.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/Data_flow_diagram.png" width=""/>
 </p>
 ​                                                    
 
@@ -109,7 +109,7 @@
 
  
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/ER_diagram.png" width=""/>
+        <img src="http://47.94.108.44/github_imgage/ER_diagram.png" width=""/>
 </p>
  
 
@@ -306,118 +306,116 @@ manager.js：这个文件是普通用户和管理员共用的js文件，产生�
 在浏览器中访问网站，返回如下界面：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_1.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_1.png" width=""/>
 </p>
 
 
 如果输入的信息有误会进行如下提示：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_2.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_2.png" width=""/>
 </p>
 
 如果一般用户登录成功会进入如下界面：
 
  <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_3.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_3.png" width=""/>
 </p>
 
 点击查询后得到如下结果：
 
  <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_4.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_4.png" width=""/>
 </p>
 
 如果是以管理员的身份进入管理页面，管理页面如下：
 
  <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_5.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_5.png" width=""/>
 </p>
 
 点击查询：
 
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_6.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_6.png" width=""/>
 </p>
 
-    
+​    
  选择课程信息表，点击查询：
 
  <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_7.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_7.png" width=""/>
 </p>
 
 不修改表格中的数据的情况下点击修改：
 
-     
+
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_8.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_8.png" width=""/>
 </p>
  
 
 点击c语言4的学时单元格，将c语言4的学时修改为100，之后点击修改：
 
   <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_9.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_9.png" width=""/>
 </p>
 
 再次点击查询，发现修改成功：
 
  <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_10.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_10.png" width=""/>
 </p>
 
 之后点击插入按钮，表头下面多出一个空行，点击空行里面的单元格，显示如下：
 
- 
+
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_11.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_11.png" width=""/>
 </p>
-     
+​     
 
 不输入数据的情况下点击插入：
 
   <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_12.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_12.png" width=""/>
 </p>
 
-   
+
  如果在空白单元格中输入了我们自定义的c语言5的信息，点击插入，结果如下：
 
- 
+
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_inserted_successfully.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_inserted_successfully.png" width=""/>
 </p>
 点击确定，可以看到，c语言5的信息被插入了：
 
-     
+
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_13.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_13.png" width=""/>
 </p>
  
 
 在c语言5的字段上单击，点击删除，提示如下：
 
- 
+
 <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_14.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_14.png" width=""/>
 </p>
-     
+​     
 
 点击确定后，发现c语言5的信息已经被删除了：
 
  <p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_15.png" width=""/>
+        <img src=" http://47.94.108.44/github_imgage/screenshot_15.png" width=""/>
 </p>
 
 如果上面进行的操作不符合数据库设计的要求（数据的唯一性，外键依赖等），会返回数据库的报错信息，例如：我尝试删除学号为201720812学生信息，因为分数表里有这个学生的分数信息依赖这个字段，所以报错如下：
 
- 
-<p align="center">
-        <img src="http://www.club0.club/github_imgage/screenshot_16.png" width=""/>
-</p>
- 
 
+<p align="center">
+        <img src=" http://47.94.108.44/github_imgage/screenshot_16.png" width=""/>
+</p>
 #### 调试过程中遇到的问题：
 
  
